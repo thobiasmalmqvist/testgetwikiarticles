@@ -1,0 +1,57 @@
+div#header {
+	text-align: center;
+	font-family: Times new roman;
+	font-size: 24px;
+	background-color: lightgrey;
+	font-weight: bold;
+	height: 48px;
+	line-height: 48px;
+	border: 1px solid black;
+}
+
+body {
+	background-color: #E8E8E8;
+}
+
+div#target {
+	width: 50%;
+	min-height: 100px;
+	background-color: white;
+	border: 1px solid black;
+}
+
+div#target2 {
+	width: 100%;
+	min-height: 100px;
+	background-color: white;
+	border: 1px solid black;
+}
+
+form {
+	padding-bottom: 30px;
+}
+
+footer#bottom {
+	background-color: lightgrey;
+}
+
+footer#bottom p {
+	padding: 10px;
+	text-align: right;
+	border: 1px solid black;
+}
+
+header {
+	text-align: center;
+	font-family: Times new roman;
+	font-size: 24px;
+	background-color: lightgrey;
+	font-weight: bold;
+	height: 48px;
+	line-height: 48px;
+	border: 1px solid black;
+}
+
+select#myList {
+	width: 250px;
+}
